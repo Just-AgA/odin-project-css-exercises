@@ -1,0 +1,14 @@
+.btn-one, .btn.btn-two {
+    font-size: 35px;
+}
+
+.btn-one {
+    color: white;
+    background-color: rgb(8, 7, 7);
+    font-weight: bold;
+}
+
+.btn-two {
+    color: rgb(10, 1, 1);
+    background-color: rgb(207, 207, 9);
+}
